@@ -1,7 +1,7 @@
 <div align="center">
 
-<h3 align="center"><img src="frontend/src/assests/Logo.png" width="24"/>
-&nbsp;Cincrafit AI </h3>
+<h3 align="center"> <img src="frontend/src/assets/Logo.png" width="66"/> <br>
+Cincrafit AI </h3>
 
 ### Building Trusted Commerce for Bharat using Agentic AI
 
